@@ -77,7 +77,7 @@ Citizen.CreateThread(
 				local zonelol = GetNameOfZone(coords.x, coords.y, coords.z)
 				Zone = GetLabelText(zonelol)
 
-				if Help == true then
+				if Help == true then -- laot#2599
 					Help = false
 					KM = 0
 					Cost = 0
