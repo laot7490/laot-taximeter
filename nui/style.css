@@ -1,0 +1,54 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background:rgba(255, 255, 255, 0);
+  overflow: hidden;
+}
+
+body {
+    background:rgba(255, 255, 255, 0);
+    display: none;
+}
+
+.taksibg {
+  background:rgba(27, 27, 27, 0.7);
+  width: 25vh;
+  height: 14vh;
+  bottom: 20vh;
+  right: 150vh;
+  position: absolute;
+  color: white;
+  border-radius: 0.5vh;
+  font-size: 25px;
+  padding: 1vh;
+}
+
+b {
+  color: goldenrod;
+}
+
+.konum {
+  color: whitesmoke;
+  font-size: 20px;
+  position: absolute;
+}
+
+.km {
+  position: absolute;
+  font-size: 14px;
+  text-align: center;
+}
+
+.tutar {
+  position: absolute;
+  font-size: 14px;
+  text-align: center;
+  padding-left: 19.5vh;
+}
+
+.icon {
+  position: absolute;
+  padding-left: 19.5vh;
+  color: red;
+}
